@@ -4,5 +4,6 @@ class HelloWorld {
 		System.out.println("Hello, Java!"); 
         System.out.println("Hello, Pilani!"); 	
 		System.out.println("Hello, DummyAccount!"); 
+		System.out.println("Hello, Amazing!"); 
     }
 }
